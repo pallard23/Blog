@@ -1,7 +1,7 @@
 - name: "SE Radio Interview: Infrastructure as Code Best Practices"
   date: "April 7, 2020"
   description: |
-    I did a podcast interview with Software Engineering Radio on Infrastructure as Code best practices. The discussion
+    I did a podcast yesterday interview with Software Engineering Radio on Infrastructure as Code best practices. The discussion
     covers similarities and differences between conventional software engineering and code-driven infrastructure;
     factoring code into modules; layering; terraform code organization for micro-services; releases and tagging; code
     reviews; unit testing infrastructure; deployment of infrastructure; ownership and code structure models; and open
