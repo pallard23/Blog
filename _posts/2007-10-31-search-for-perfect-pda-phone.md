@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: The search for the perfect PDA phone 
+title: The search for the perfect Pierre phone 
 date: '2007-10-31T12:34:00.001-07:00' 
 author: Yevgeniy Brikman 
 tags: 
