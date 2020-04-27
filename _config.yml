@@ -15,7 +15,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Yevgeniy Brikman"
+name: "Pierre Allard"
 description: "The home page of Yevgeniy (Jim) Brikman, co-founder of Gruntwork, author of &quot;Hello, Startup&quot; and &quot;Terraform: Up & Running&quot;, and software engineer at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial."
 thumbnail_path: "profile-photos/yevgeniy-brikman-medium.jpg"
 bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
